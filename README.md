@@ -1,6 +1,6 @@
 # Plunk 中文汉化插件
 
-将 [Plunk](https://app.useplunk.com/) 后台界面汉化为中文的用户脚本。
+将 [Plunk](https://next-app.useplunk.com/) 后台界面汉化为中文的用户脚本。
 
 ## 功能
 
@@ -37,7 +37,7 @@
 
 ## 兼容性
 
-- 适用于 `app.useplunk.com` 及所有 `*.useplunk.com` 子域名
+- 适用于 `next-app.useplunk.com`
 - 如果你使用的是自定义域名部署的 Plunk，请在脚本的 `@match` 中添加你的域名
 
 ## 许可

@@ -4,7 +4,6 @@
 // @version      0.1.0
 // @description  将 Plunk 后台常见英文界面汉化为中文
 // @author       OpenVideoMaker
-// @match        https://app.useplunk.com/*
 // @match        https://*.useplunk.com/*
 // @run-at       document-end
 // @grant        none
