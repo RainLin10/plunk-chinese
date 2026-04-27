@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Plunk 中文汉化插件
+// @namespace    https://github.com/RainLin10/plunk-chinese
 // @version      0.1.0
 // @description  将 Plunk 后台常见英文界面汉化为中文
 // @author       OpenVideoMaker
